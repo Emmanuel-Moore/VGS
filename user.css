@@ -1,0 +1,613 @@
+.pgsWpr {
+	margin: 0px 0px 25px;
+}
+
+.usrWpr1-6 {
+	margin: -145px 0px 25px;
+	width: 425px;
+	z-index: 1;
+	position: relative;
+}
+
+.usrWpr, .usrWpr2 {
+	margin: 0px 0px 50px;
+}
+
+.usrWpr, .usrWpr2, .usrWpr1-6 {
+	float: left;
+}
+
+.usrWpr, .usrWpr2 .pgsWpr, .pgsWpr img, .usrWpr1-6 img {
+	display: block;
+}
+
+.usrWpr2 {
+	border: 1px solid #e3e3e3;
+}
+
+.pgsWpr, .pgsWpr img {
+	width: 425px;
+	height: 200px;
+}
+
+.usrCnt, img {
+	width: 400px;
+	height: 200px;
+}
+
+.usrCnt {
+	margin: 0px 0px 0px 25px;
+}
+
+.pgsInr1 {
+	margin: -194px 0px 0px 8px;
+	width: 410px;
+}
+
+.usrInr1 {
+	width: 350px;
+}
+
+
+.usrInr1 {
+	margin: -197px 0px 0px 44px;
+}
+
+.usrInr1-5, .usrInr1-6 {
+	float: right;
+	position: relative;
+	margin: 2px 0px 8px;
+}
+
+.usrInr1-5 {
+	width: 356px;
+}
+
+.usrInr1-6 {
+	width: 324px;
+}
+
+.pgsInr2 {
+	width: 419px;
+	height: 25px;
+	margin: -31px 0px 0px;
+	padding: 3px;
+
+}
+
+.usrInr2, .usrInr3 {
+	height: 25px;
+	padding: 3px;
+
+}
+
+.usrInr2 {
+	width: 394px;
+	margin: -35px 0px 0px;
+
+}
+
+.usrInr3 {
+	width: 350px;
+	margin: 36px 0px 0px 66px;
+}
+
+.usrInr3-6 {
+	width: 320px;
+	margin: 41px 0px 0px 99px;
+}
+
+.usrInr4a {
+	width: 378px;
+}
+
+.usrInr4c {
+	width: 330px;
+}
+
+.usrInr4a, .usrInr4c {
+	height: 50px;
+}
+
+.usrInr4a, .usrInr4c {
+	margin: 0px 0px 0px 52px;
+}
+
+.pgsInr2-5 {
+	margin: 0px 10px 0px 5px;
+	display: inline-block;
+	cursor: pointer;
+
+}
+
+.usrImg2, .usrImg2-6, .usrImg3 {
+	position: absolute;
+	margin: 0px;
+}
+
+.usrImg3 {
+	position: relative;
+	margin: 0px;
+}
+
+.usrImg2 img, .usrImg2-6 img, .usrImg3 img, #uedt_2 {
+	border: 1px solid #fff;
+	border-radius: 50%;
+}
+
+.usrImg2 img {
+	width: 60px;
+	height: 60px;
+}
+
+.usrImg2-6 img, #uedt_2 {
+	width: 150px;
+	height: 150px;
+}
+
+.usrImg2-6 img {
+	margin: -67px 0px 0px -59px;
+}
+
+
+.usrImg3 img {
+	width: 45px;
+	height: 45px;
+	float: left;
+}
+
+.flwBtn1, .setBtn2:hover {
+	background: #35b335;
+	color: #fff;
+	padding: 1px 3px;
+	cursor: pointer;
+}
+
+.flwBtn1:hover, .setBtn1:hover {
+	background: #fff;
+	color: #35b335;
+}
+
+.setBtn1, .setBtn2 {
+	padding: 1px 3px;
+	font-size: 25px;
+	line-height: 0px;
+	height: 16px;
+	cursor: pointer;
+}
+
+
+.setBtn1 {
+	border: 1px solid #fff;
+	color: #fff;
+}
+
+.setBtn2 {
+	color: #35b335;
+}
+
+.CntNum1, .CntNum1:hover {
+	border: 1px solid #4d4d4d;
+	padding: 1px 3px;
+	margin: 0px 0px 0px 5px;
+}
+
+.InrNum1, .CntNum1 {
+	font-size: 12px;
+}
+
+.pgBnr {
+	margin: 50px -8px 0px -8px;
+}
+
+.pgBnr img, #uedt_1 {
+	height: 400px;
+}
+
+.pgBnr img, #uedt_1, .menuWpr span {
+	width: 100%;
+}
+
+.bodystat1, .mnuSpd {
+	margin: -5px 0px 15px 0px;
+}
+
+.mnuSel {
+	margin: 0px 0px 0px 5px;
+}
+
+.mnuSel span {
+	margin: 0px 0px 0px 5px;
+	font-size: 18px;
+}
+
+.mnuWpr {
+	width: 30px;
+	height: auto;
+}
+
+.mnuWpr span {
+	height: 2px;
+	display: block;
+	background: #777;
+	margin: 5px 0px; 
+}
+
+.mnuDrp {
+	z-index: 3;
+	margin: 0px;
+}
+
+.txtInd1, .txtInd1 textarea {
+	text-indent: 36px;
+}
+
+.usrPstInr1, .usrPstFtr1, .usrPstInr2, .usrPstFtr2, .usrPstInr3, .usrPstFtr3, .svpWpr1, .svpWpr2 {
+	float: left;
+	height: auto;
+}
+
+.usrPstInr1, .usrPstFtr1, .usrPstInr2, .usrPstFtr2 {
+	border: 1px solid #e3e3e3;
+}
+
+.usrPstInr1, .usrPstFtr1{
+	width: 376px;
+	margin: 0px 0px 0px 27px;
+}
+
+.PstCmt {
+	margin: 5px 0px;
+}
+
+.usrPstInr2, .usrPstFtr2, .usrPstInr3 {
+	width: 425px;
+}
+
+.svpWpr1, .svpWpr2 {
+	width: 100%;
+}
+
+.usrPstInr1, .usrPstInr2, .usrPstInr3, .svpWpr1, .svpWpr2 {
+	background: #fff;
+	border-bottom: none;
+}
+
+.usrPstInr1, .usrPstInr2 {
+	padding: 30px 10px 10px;
+}
+
+.usrPstInr3, .svpWpr1, .svpWpr2 {
+	padding: 6px 11px 10px;
+}
+
+.usrPstInr1 img, .usrPstInr2 img, .usrInr4b img {
+	height: auto;
+	width: 100%;
+	margin: 5px 0px 0px;
+}
+
+.PstFtrWrp1a {
+	margin: 0px;
+	font-size: 12.5px;
+}
+
+.usrPstFtr1, .usrPstFtr2, .usrPstFtr3 {
+	background: #f3f3f3;
+	padding: 10px;
+	border-top: none;
+}
+
+.cmtCre img, .usrPstFtr2 img, .usrPstFtr3 img, .usr-3c img, .statViw img {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	border: 1px solid #e1e1e1;
+	float: left;
+	margin: 1px 0px 0px;
+}
+
+.usrPstFtr1 img, .usrPstFtr2 img, .usrPstFtr3 img {
+	margin: 1px 0px 0px;
+}
+
+.usrPstFtr1 input[type=text], .usrPstFtr2 input[type=text], .usrPstFtr3 input[type=text] {
+	background: #fff;
+	border: 1px solid #e1e1e1;
+	height: 23px;
+} 
+
+.usrPstFtr1 input[type=text], .usrPstFtr2 input[type=text], .usrPstFtr3 input[type=text] {
+	margin: 0px 0px 0px 10px;
+} 
+
+.usrPstFtr1 input[type=text] {
+	width: 322px;
+} 
+
+.usrPstFtr2 input[type=text] {
+	width: 370px;
+} 
+
+.usrPstFtr3 input[type=text] {
+	width: 372px;
+} 
+
+.cmtCre {
+	margin: 5px 0px 0px;
+}
+
+#pgT1 {
+	font-weight: 900;
+	color: #35B335;
+}
+
+#pgT2, #pgT3 {
+	color: #777;
+}
+
+.InrCnt1a {
+	margin: 0px;
+}
+
+.InrCnt1b {
+	margin: 0px;
+}
+
+.uptBtn {
+	margin: -102px 0px 0px 0px;
+}
+
+.RgtClm1 {
+	margin: -240px 0px 0px 40px;
+}
+
+.gtDis {
+	max-width: 400px;
+	margin: 105px 0px 25px;
+}
+
+.gtCl {
+	padding: 3px 6px;
+	background: #35B335;
+	color: #fff;
+	font-weight: 900;
+	margin: 0px 0px 7px 0px;
+	display: inline-block;
+	min-width: 32px;
+	text-align: center;
+}
+
+/* user edit */
+#uedt_1, #uedt_2 {
+	margin: 0px 0px 0px -8px;
+	background: #fff;
+	opacity: 0.5;
+	z-index: 1;
+	font-weight: 900;
+}
+
+#uedt_1 {
+	margin: 0px 0px 0px -8px;
+}
+
+#uedt_2 {
+	margin: -68px 0px 0px -59px;
+}
+
+.uedt_1Inr {
+	display: inline-block;
+	margin: 9% 0px 0px 37%;
+	text-align: center;
+}
+
+.uedt_1a, .uedt_2a {
+	font-size: 20px;
+	border-radius: 3px;
+}
+
+.uedt_1a {
+	padding: 20px;
+	border: 2px solid #35B335;
+	margin: 0px 0px 8px; 
+	display: block;
+}
+
+.uedt_2a {
+	border: 1px solid #35B335;
+	padding: 10px;
+	display: inline-block;
+	margin: 37% 0px 0px 38%;
+	color: #777;
+}
+
+.uedt_1a:hover, .uedt_2a:hover {
+	background: #35B335;
+	color: #fff;
+} 
+
+.uedt_1a:hover {
+	border: 2px solid #fff;
+} 
+
+.uedt_2a:hover {
+	border: 1px solid #fff;
+} 
+
+.uedt_1a, .uedt_1b span {
+	cursor: pointer;
+}
+
+.uedt_1b span:hover, .PstStat span:hover, .PstFtrWrp1a a:hover {
+	color: #35B335;
+}
+
+textarea#uedt_3-1b {
+	margin: 5px 0px 0px -38px;
+}
+
+textarea#uedt_3-1b, input#uedt_3-2b {
+	width: 100%;
+	max-width: 376px;
+	min-width: 376px;
+	background: transparent;
+	height: auto;
+	border: none;
+	color: #777;
+	font-size: 16px;
+}
+
+.eFix_1 {
+	margin: 0px;
+}
+
+.diqOpt {
+	margin: 0px 0px 0px 5px;
+}
+
+.PstFtrWrp1a {
+	margin: 8px 0px -13px 0px;
+	font-size: 12px;
+	width: 100%;
+	display: inline-block;
+}
+
+.PstStat {
+	margin: 0px 10px 0px 0px;
+}
+
+.PstStat span, .statViw img {
+	cursor: pointer;
+}
+
+.PstFtrWrp1a a {
+	color: #777;
+}
+
+.statViw {
+	background: #4d4d4d;
+	opacity: 0.6;
+	border: 1px solid #e1e1e1;
+	width: auto;
+	max-width: 191px;
+	min-width: 191px;
+	height: 42px;
+	overflow-y: hidden;
+	overflow-x: scroll;  
+}
+
+.statViw img {
+	margin: 5px 0px 0px 5px;
+}
+
+.sV1 {
+	margin: -57px 0px 0px 23px;
+}
+
+.sV2 {
+	margin: -57px 0px 0px 75px;
+}
+
+.stWpr {
+	background: #fff;
+	border: 1px solid #e3e3e3;
+	max-width: 940px;
+	margin: 65px 0px 0px 0px;
+}
+
+.stHdr {
+	background: #f3f3f3;
+	width: 100%;
+	max-width: 920px;
+}
+
+.stHdr, .stInr {
+	padding: 10px;
+}
+
+.stUsr input {
+	margin: -44px 0px 0px 0px;
+	color: #777;
+	background: transparent;
+}
+
+.stUsr input, .stHdr span {
+	font-size: 17px;
+}
+
+.stBnr {
+	margin: -38px 0px 0px 80px;
+}
+
+.stBnrImg {
+	margin: 0px 0px 5px;
+	max-width: 319px;
+	height: auto;
+}
+
+.stHin1 {
+	margin: 0px 0px 0px 95px;
+	width: 480px;
+}
+
+#stHin2 {
+	width: 325px;
+}
+
+.stHdr span {
+	color: #777;
+	margin: 0px 15px 0px 0px;
+}
+
+#st-1x {
+	color: #35B335;
+	font-weight: 600;
+}
+
+.stLft input, .stLft label, .stLft textarea {
+	display: block;
+	font-size: 14px;
+	margin: 5px 0px;
+	width: 100%;
+} 
+
+.dctBtn {
+	margin: 10px 0px 0px;
+	padding: 10px;
+	max-width: 565px;
+}
+
+.stLft {
+	margin: 30px 0px 10px;
+	width: 580px;
+}
+
+.stRgt {
+	margin: 0px 0px 10px;
+	width: 320px;
+}
+
+.radio-select {
+	display: inline-block;
+	margin: 6px 10px 0px 0px;
+	float: left;
+	width: 0px;
+}
+
+.radio-info p {
+	font-size: 13px;
+	text-align: left;
+	margin: 0px 0px -10px 3px;
+}
+
+.radio-info input[type="text"] {
+	width: 285px;
+}
+
+.note-ex {
+	font-size: 12px;
+}
+
+.alert, .clr3 {
+	color: #BA0000;
+}
