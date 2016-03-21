@@ -1,0 +1,156 @@
+.hdrWpr {
+	width: 100%;
+	height: 50px;
+	top: 0;
+	left: 0;
+	right: 0;
+	position: fixed;
+	background: #fff;
+	color: #15e400;
+	z-index: 5;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.hdrCnt {
+	margin: 15px auto;
+	width: 1200px;
+	max-width: 1200px;
+}
+
+input, select, textarea {
+	background: #fff;
+	border: none;
+	padding: 5px;
+}
+
+.cP, a, .lnkWrp a, .stHdr span, .mnuSel span {
+	cursor: pointer;
+}
+
+.fL {
+	float: left;
+}
+
+.fR {
+	float: right;
+}
+
+.dN {
+	display: none;
+}
+
+.dB {
+	display: block;
+}
+
+.diB {
+	display: inline-block;
+}
+
+.pF {
+	position: fixed;
+}
+
+.pA {
+	position: absolute;
+}
+
+.fwsp {
+	width: 100%;
+}
+
+/* search bar */
+.m_search {
+	width: 300px;
+}
+
+.hdrCntHdr {
+	width: 400px;
+	max-width: 400px;
+	min-width: 400px;
+}
+
+.hdrName, #hdrLogo {
+	display: inline-block;
+	float: left;
+	margin: -3px 0px 0px;
+}
+
+.hdrName, input#uedt_4-2b {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+input#uedt_4-2b {
+	margin: -7px 0px 0px;
+	text-indent: -6px;
+}
+
+#hdrLogo {
+	display: none;
+}
+
+#hdrLogo, #ldEft {
+	background: url("img/vgs-icon.png");
+	width: 35px;
+	height: 25px;
+	margin: 0px;
+	left: 10%;
+	opacity: 8.0;
+    filter: alpha(opacity=80); 
+}
+
+#hdrLogo:hover {
+	opacity: 1.0;
+    filter: alpha(opacity=100); 
+	border-radius: 50%;
+	-webkit-transition: margin 0.5s ease-out; 
+	-moz-transition: margin 0.5s ease-out; 
+	-o-transition: margin 0.5s ease-out; 
+	-ms-transition: margin 0.5s ease-out;
+          transition: margin 0.5s ease-out;
+	-webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+  	-webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+       -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+
+.m_search input[type=text] {
+    border: none;
+    background: #fff;
+    float: right;
+    margin: -10px 0px 0px;
+    width: 100%;
+    max-width: 265px;
+    height: 30px;
+    font-size: 16px;
+}
+
+.m_search input[type=submit] {
+    border: none;
+	color: transparent;
+	background-image: url("img/dbs-icon.png");
+	background-repeat: no-repeat;
+	background-color: #fff;
+    content: "";
+    z-index: 2;
+    cursor: pointer;
+    float: left;
+    display: inline-block;
+    position: relative;
+    width: 25px;
+    height: 25px;
+}
+
+.indxHdr {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px 0px 10px 0px;
+	display: block;
+}
